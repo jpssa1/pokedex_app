@@ -19,12 +19,30 @@ Aplicativo mobile feito com Flutter que permite buscar, visualizar e explorar in
 
 ---
 
+## 📸 Screenshots
+
+
+
+### 🏠 Tela Inicial
+<img src="pokemon 1.png" width="300" />
+
+<img src="pokemon 2.png" width="300" />
+
+### 📃 Detalhes do Pokémon
+
+<img src="pokemon 3.png" width="300" />
+
+<img src="pokemon 4.png" width="300" />
+
+<img src="pokemon 5.png" width="300" />
+
+---
 
 ## 🚀 Tecnologias utilizadas
 
 - **Flutter** + **Dart**
-- `http` ou `dio` para consumo de API
+- `http` para consumo de API
 - Integração com [PokeAPI](https://pokeapi.co/)
-- Gerenciamento de estado com `Provider`,
+- Gerenciamento de estado com `Provider`
 - UI com `Material Design`
 
