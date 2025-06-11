@@ -1,16 +1,30 @@
-# pokedex_app
+# 🔍 Pokédex App
 
-A new Flutter project.
+Aplicativo mobile feito com Flutter que permite buscar, visualizar e explorar informações sobre os Pokémons da Pokédex. Com interface moderna e integração com API, o app entrega uma experiência prática e divertida para fãs de Pokémon.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![API](https://img.shields.io/badge/API-pokeapi.co-red?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔍 Busca de Pokémons por nome ou ID
+- 📄 Exibição de informações como tipo, habilidades e stats
+- 🖼️ Imagens oficiais dos Pokémons
+- 💾 Armazenamento local de favoritos (opcional)
+- 🔃 Listagem paginada (scroll infinito)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+
+## 🚀 Tecnologias utilizadas
+
+- **Flutter** + **Dart**
+- `http` ou `dio` para consumo de API
+- Integração com [PokeAPI](https://pokeapi.co/)
+- Gerenciamento de estado com `Provider`, `BLoC` ou `Riverpod` (especifique se usado)
+- UI com `Material Design`
+
