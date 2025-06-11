@@ -24,11 +24,13 @@ Aplicativo mobile feito com Flutter que permite buscar, visualizar e explorar in
 
 
 ### 🏠 Tela Inicial
-<img src="pokemon 1.png" width="300" /><img src="pokemon 2.png" width="300" />
+<img src="pokemon 1.png" width="200" />
 
 ### 📃 Detalhes do Pokémon
 
-<img src="pokemon 3.png" width="300" /><img src="pokemon 4.png" width="300" /><img src="pokemon 5.png" width="300" />
+<img src="pokemon 3.png" width="200" />
+<img src="pokemon 4.png" width="200" />
+<img src="pokemon 5.png" width="200" />
 
 ---
 
