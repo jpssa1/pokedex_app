@@ -25,6 +25,6 @@ Aplicativo mobile feito com Flutter que permite buscar, visualizar e explorar in
 - **Flutter** + **Dart**
 - `http` ou `dio` para consumo de API
 - Integração com [PokeAPI](https://pokeapi.co/)
-- Gerenciamento de estado com `Provider`, `BLoC` ou `Riverpod` (especifique se usado)
+- Gerenciamento de estado com `Provider`,
 - UI com `Material Design`
 
